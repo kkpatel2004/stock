@@ -1,4 +1,4 @@
-# Stock Market Trends Exploratory Data Analysis (EDA)
+# Stock Market Trends EDA
 
 ## 📌 Project Overview
 This project conducts an in-depth analysis of **stock market trends** using **Exploratory Data Analysis (EDA)** techniques to uncover valuable insights into market behavior, price fluctuations, and trading patterns. By leveraging historical stock market data, the analysis identifies **long-term trends**, **volatility patterns**, and **market cycles** over time.
